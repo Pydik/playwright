@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Sep 18 23:59:14 EEST 2022","Sun Sep 18 23:59:20 EEST 2022","6098","chromium","tetsSuiteRegistration.spec.js","Registration","","","Registration with valid credentials",""
+"passed","Sun Sep 18 23:59:10 EEST 2022","Sun Sep 18 23:59:14 EEST 2022","3517","chromium","testSuiteLogin.spec.js","Registration","","","Login with invalid password",""
+"passed","Sun Sep 18 23:59:20 EEST 2022","Sun Sep 18 23:59:25 EEST 2022","5073","chromium","tetsSuiteRegistration.spec.js","Registration","","","Registration with invalid password",""
+"passed","Sun Sep 18 23:59:16 EEST 2022","Sun Sep 18 23:59:21 EEST 2022","5219","chromium","tetsSuiteRegistration.spec.js","Registration","","","Registration with invalid email",""
+"passed","Sun Sep 18 23:59:03 EEST 2022","Sun Sep 18 23:59:15 EEST 2022","12362","chromium","testSuiteLogin.spec.js","Registration","","","Login with invalid login",""
+"passed","Sun Sep 18 23:59:03 EEST 2022","Sun Sep 18 23:59:09 EEST 2022","6591","chromium","testSuiteLogin.spec.js","Registration","","","Login with valid credentials",""
